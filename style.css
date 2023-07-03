@@ -209,7 +209,7 @@
 
 #es-sodastream.es-sodastream .es-set__img {
   max-width: 300px;
-  margin-top: -200px;
+  margin-top: -175px;
 }
 #es-sodastream.es-sodastream .es-set__title {
   font-family: 'Bold';
@@ -349,6 +349,7 @@
 #es-sodastream.es-sodastream .es-slider {
   background-color: #ebe6e1;
   min-height: 750px;
+  padding-bottom: 150px;
 }
 #es-sodastream.es-sodastream .es-slider__title {
   text-align: center;
@@ -368,7 +369,6 @@
   justify-content: center;
   align-items: center;
   max-height: 850px;
-  min-height: 350px;
 }
 #es-sodastream.es-sodastream .es-slider__slide--blue {
   background-color: #13294b;
@@ -594,7 +594,7 @@
 #es-sodastream.es-sodastream .es-video__hash {
   text-align: center;
   font-family: 'Bold';
-  font-size: 50px;
+  font-size: 42px;
 }
 #es-sodastream.es-sodastream .es-video__logo {
   max-width: 200px;
@@ -881,7 +881,7 @@
     display: block;
   }
   #es-sodastream.es-sodastream .es-set__img {
-    margin-top: -300px;
+    margin-top: -200px;
   }
   #es-sodastream.es-sodastream .es-slider__title {
     font-size: 45px;
@@ -941,5 +941,10 @@
   .swiper-button-next {
     height: 40px;
     width: 40px;
+  }
+  #es-sodastream.es-sodastream .es-video__hash {
+    text-align: center;
+    font-family: 'Bold';
+    font-size: 50px;
   }
 } /*# sourceMappingURL=style.css.map */
